@@ -16,10 +16,22 @@
 .graytext{
     color: var(--gray);
 }
+.grayish-violet{
+    color: var( --grayish-violet);
+}
+
 
 .graytext:hover{
     color: black;
 }
 .BgCyanColor{
     background-color: var(--cyan);
+}
+
+.darkblueTextColr{
+    color: var(  --very-dark-blue);
+}
+
+.darkVoilet{
+    color: var( --dark-violet);
 }
