@@ -35,3 +35,17 @@
 .darkVoilet{
     color: var( --dark-violet);
 }
+
+.darkVoiletBg{
+    background-color: var(--dark-violet);
+}
+
+
+.svg-background-div {
+    width: 100%;
+    background-image: url('/images/bg-shorten-desktop.svg'); /* Reference your SVG file */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-size: cover; /* Scales the image to cover the entire div area */
+    background-position: center; /* Centers the background image */
+    /* Add other styles as needed */
+}
