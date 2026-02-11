@@ -50,6 +50,14 @@
 }
 
 
+.svg-background-mobile{
+      width: 100%;
+    background-image: url('/images/bg-shorten-mobile.svg'); /* Reference your SVG file */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-size: cover; /* Scales the image to cover the entire div area */
+    background-position: center; /* Centers the background image */
+}
+
 .bg-boost-desktop{
     width: 100%;
     background-image: url('/images/bg-boost-desktop.svg'); /* Reference your SVG file */

@@ -15,7 +15,7 @@ export default function Footer() {
     <footer className='bgvery-dark-violet p-10 '>
   
     <div className='max-w-6xl  mx-auto'>
-        <div className='flex gap-2 justify-around'>
+        <div className='flex md:flex-row flex-col gap-2 justify-around'>
               <div >
         <h1 className='text-4xl text-white font-bold pb-2'>Shortly</h1>
     </div>
